@@ -1,0 +1,13 @@
+
+Modifications in package.json
+
+set start to "nodemon index.js" in the package.json
+
+Connection string:
+
+mongodb+srv://test:12345@cluster0.ybqy7fj.mongodb.net/
+
+which you will get from mongodb atlus
+
+
+
